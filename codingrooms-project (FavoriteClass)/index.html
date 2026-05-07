@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <title>Favorite Class Voting</title>
+   <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+   <h1>Favorite Class Voting</h1>
+
+   <form method="post" action="process_vote.php">
+      <h2>Your vote</h2>
+      <p>
+         <label for="year">What year are you?</label>
+         <select id="year" name="year">
+            <option value="Freshman">Freshman</option>
+            <option value="Sophomore">Sophomore</option>
+            <option value="Junior">Junior</option>
+            <option value="Senior">Senior</option>
+         </select>
+      </p>
+      <p>
+         <label for="favorite">What is your favorite class?</label>
+         <select id="favorite" name="favorite">
+            <option value="Art History 476">Art History 476</option>
+            <option value="Biology 170">Biology 170</option>
+            <option value="Business 440">Business 440</option>
+            <option value="Calculus 116">Calculus 116</option>
+            <option value="Chemistry 230">Chemistry 230</option>
+            <option value="Computer Science 274">Computer Science 274</option>
+            <option value="Geography 309">Geography 309</option>
+            <option value="History 417">History 417</option>
+            <option value="Physics 240">Physics 240</option>
+            <option value="Political Science 321">Political Science 321</option>
+         </select>
+      </p>
+      <input type="submit" value="Submit">
+   </form>
+</body>
+
+</html>

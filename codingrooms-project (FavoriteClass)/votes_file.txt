@@ -1,0 +1,26 @@
+Sophomore,Chemistry 230
+Freshman,Biology 170
+Junior,Physics 240
+Senior,History 417
+Junior,Calculus 116
+Senior,Computer Science 274
+Senior,Chemistry 230
+Junior,Physics 240
+Freshman,Business 440
+Freshman,History 417
+Freshman,Art History 476
+Junior,Geography 309
+Sophomore,Chemistry 230
+Sophomore,Business 440
+Junior,Art History 476
+Freshman,Art History 476
+Freshman,Art History 476
+Freshman,Art History 476
+Sophomore,Art History 476
+Freshman,Art History 476
+Freshman,Art History 476
+Junior,Art History 476
+Freshman,Art History 476
+Freshman,Physics 240
+Freshman,Art History 476
+Freshman,Art History 476
